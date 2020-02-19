@@ -22,6 +22,6 @@ https://www.youtube.com/watch?v=lvFAuUcowT4&t=280s
 
 ## Using the program
 
-Once you run the program from the terminal, and are ready to use the autoswipe feature, call `bot.autoSwipe()` to activate the auto swiping feature.
+Once you execute the program, you can use an interactive shell such as iPython to call `bot.autoSwipe()` and activate the auto swiping feature.
 
 Enjoy, and have fun!
