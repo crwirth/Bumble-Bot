@@ -17,9 +17,6 @@ After you are finished installing the dependencies, then create a file called 's
  password = 'password'
 ```
 
-Credit to @aj-4 for his tutorial on how to build a Tinder swipe bot, which can be found here:
-https://www.youtube.com/watch?v=lvFAuUcowT4&t=280s
-
 ## Using the program
 
 Once you execute the program, you can use an interactive shell such as iPython to call `bot.autoSwipe()` and activate the auto swiping feature.
